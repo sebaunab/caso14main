@@ -1,0 +1,12 @@
+/* src/pages/ReservarEspacios.css */
+.reservar-espacios {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .reservar-espacios main {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #555;
+  }
+  

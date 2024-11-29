@@ -1,0 +1,14 @@
+/* src/components/HeaderReservas.css */
+.header-reservas {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .header-reservas h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  

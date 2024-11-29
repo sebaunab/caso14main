@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #333; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    padding: 10px 0; /* Espacio interno */
+  }
+  
+  .navbar ul {
+    list-style: none; /* Elimina los puntos de la lista */
+    padding: 0;
+    margin: 0;
+    display: flex; /* Alinea los elementos en una fila */
+    justify-content: center; /* Centra los elementos horizontalmente */
+  }
+  
+  .navbar li {
+    margin: 0 20px; /* Espacio entre los elementos de la lista */
+  }
+  
+  .navbar a {
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+    color: #fff; /* Color del texto */
+  }
